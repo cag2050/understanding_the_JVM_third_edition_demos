@@ -13,7 +13,7 @@ public class JHSDB_TestCase {
         void foo () {
             // localObj 存放在foo()方法栈帧的局部变量表中
             ObjectHolder localObj = new ObjectHolder();
-            // 这里设一个端点
+            // 这里设一个断点
             System.out.println("done");
         }
     }
