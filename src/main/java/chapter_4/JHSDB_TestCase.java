@@ -1,6 +1,7 @@
 package chapter_4;
 
 // 153页
+// 代码清单4-6 JHSDB测试代码
 // 这3个变量所指向的对象，存放在哪里？
 public class JHSDB_TestCase {
 
